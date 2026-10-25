@@ -1,5 +1,5 @@
 # Ho, welcome to my GitHub page !
-👋 Hi, my name is Yanis and I'm 15 years old, <br>
+👋 Hi, my name is Yanis and I'm 16 years old, <br>
 I am a full-stack web and software developer (primarily back-end) who works on a wide range of projects. I also do some design work (though I’m not exactly an expert at it).
 
 ## Use languages :
